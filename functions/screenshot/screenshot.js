@@ -14,7 +14,7 @@ const pattern = regexMerge(
 const options = {
   base: process.env.BASE_URL,
   width: 1200,
-  height: 630,
+  height: 720,
   maxage: 60 * 60 * 24 * 7,
 }
 
